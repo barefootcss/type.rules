@@ -1,0 +1,24 @@
+// 
+// Declarations  
+// ========================================================================== 
+
+// 
+// Defaults:
+// 
+
+$bare-hr-border-width: 			  1px !default;
+$bare-hr-border-style: 			solid !default;
+$bare-hr-border-color: 			 #ccc !default;
+
+/* 
+   #rules
+   ========================================================================== */
+
+/**
+ * The rules module provides additional styles for horizontal rules.
+ */
+
+hr {
+	border: 0;
+	border: $bare-hr-border-width $bare-hr-border-style $bare-hr-border-color;
+}

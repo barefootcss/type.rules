@@ -1,0 +1,18 @@
+{
+  "name": "bare-rules",
+  "version": "0.1.0",
+  "authors": [
+    "Eric Harms <barefoot.css@gmail.com>"
+  ],
+  "description": "The rules module provides additional styling for horizontal rules.",
+  "main": "_type.rules.scss",
+  "keywords": [
+    "barefoot",
+    "oocss",
+    "css",
+    "framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/barefootcss/type.rules"
+}
+  
