@@ -20,5 +20,5 @@ $bare-hr-border-color: 			 #ccc !default;
 
 hr {
 	border: 0;
-	border: $bare-hr-border-width $bare-hr-border-style $bare-hr-border-color;
+	border-bottom: $bare-hr-border-width $bare-hr-border-style $bare-hr-border-color;
 }
